@@ -32,7 +32,7 @@ Each folder containing an `index.html` is automatically deployed and accessible 
 
 ## 📬 Connect With Me
 💻 [GitHub](https://github.com/hritik2525)  
-💼 [LinkedIn](https://www.linkedin.com/in/hritik-mandoliya-918303251)
+💼 [LinkedIn](https://www.linkedin.com/in/hritik-mandoliya-918303251)  
 📧 mandoliyahritik@gmail.com 
 
 ---

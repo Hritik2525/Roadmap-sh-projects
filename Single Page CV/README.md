@@ -1,4 +1,7 @@
 # Single-Page-CV
-My publically available CV for recruiters.
-Project by roadmap.sh:
-https://roadmap.sh/projects/single-page-cv
+
+My publicly available CV for recruiters.  
+Project by roadmap.sh: [https://roadmap.sh/projects/single-page-cv](https://roadmap.sh/projects/single-page-cv)
+
+### 🔗 Live Demo
+[https://Hritik2525.github.io/Single-Page-CV/](https://Hritik2525.github.io/Single-Page-CV/)

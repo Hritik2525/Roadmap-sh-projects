@@ -26,7 +26,7 @@ A simple multi-section HTML website created to practice semantic HTML structure 
 All projects are hosted using **GitHub Pages** from this single repository.  
 Each folder containing an `index.html` is automatically deployed and accessible via:
 
-> `https://hritik2525.github.io/roadmap-sh-projects/`
+> `https://hritik2525.github.io/Roadmap-sh-projects/`
 
 ---
 

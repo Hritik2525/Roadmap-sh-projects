@@ -7,18 +7,25 @@ Each project is hosted separately using GitHub Pages, with its own live demo lin
 
 ## 📁 Projects
 
-### 🧾 1. [Single Page CV](https://roadmap.sh/projects/single-page-cv)
+### 1. [Single Page CV](https://roadmap.sh/projects/single-page-cv)
 A minimal and elegant online CV built with pure HTML and CSS.  
 Showcases personal details, skills, and contact info — all in a single page.
 
-🔗 **Live Demo:** [https://hritik2525.github.io/roadmap-sh-projects/Single-Page-CV/](https://hritik2525.github.io/roadmap-sh-projects/Single-Page-CV/)
+🔗 **Live Demo:** [https://hritik2525.github.io/Roadmap-sh-projects/Single-Page-CV/](https://hritik2525.github.io/Roadmap-sh-projects/Single-Page-CV/)
 
 ---
 
-### 💼 2. [Simple HTML Website](https://roadmap.sh/projects/basic-html-website)
+### 2. [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
 A simple multi-section HTML website created to practice semantic HTML structure and links between pages.
 
-🔗 **Live Demo:** [https://hritik2525.github.io/roadmap-sh-projects/Simple-HTML-Website/](https://hritik2525.github.io/roadmap-sh-projects/Simple-HTML-Website/)
+🔗 **Live Demo:** [https://hritik2525.github.io/Roadmap-sh-projects/Basic-HTML-Website/](https://hritik2525.github.io/Roadmap-sh-projects/Basic-HTML-Website/)
+
+---
+
+### 3. [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
+A simple multi-section HTML website created to practice semantic HTML structure and links between pages.
+
+🔗 **Live Demo:** [https://hritik2525.github.io/Roadmap-sh-projects/Personal-Portfolio/](https://hritik2525.github.io/Roadmap-sh-projects/Personal-Portfolio/)
 
 ---
 

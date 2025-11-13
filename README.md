@@ -23,7 +23,7 @@ A simple multi-section HTML website created to practice semantic HTML structure 
 ---
 
 ### 3. [Personal Portfolio](https://roadmap.sh/projects/portfolio-website)
-A simple multi-section HTML website created to practice semantic HTML structure and links between pages.
+A simple multi-section HTML website similar to the last one but modified to have proper layout between different devices.
 
 🔗 **Live Demo:** [https://hritik2525.github.io/Roadmap-sh-projects/Personal-Portfolio/](https://hritik2525.github.io/Roadmap-sh-projects/Personal-Portfolio/)
 
